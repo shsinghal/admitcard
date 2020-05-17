@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4302319868",
+    "firebase_url": "https://admitkartsample.firebaseio.com",
+    "project_id": "admitkartsample",
+    "storage_bucket": "admitkartsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4302319868:android:9bbe59f21c05b558fce779",
+        "android_client_info": {
+          "package_name": "com.sonu.admitkartsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4302319868-a1ds18tl74f22b8bcfb44nd3b9q8msu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUsk_rwiNiaZJenI6OQpSnsOALnFkfNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4302319868-a1ds18tl74f22b8bcfb44nd3b9q8msu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
